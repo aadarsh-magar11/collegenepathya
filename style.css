@@ -1,0 +1,570 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.bar {
+    font-family: sans-serif;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(26, 28, 137);
+    color: white;
+    align-content: center;
+    font-size: 14px;
+}
+
+.one {
+    display: flex;
+    align-content: center;
+}
+
+.location {
+    margin-left: 10%;
+    margin-right: 20px;
+}
+
+.phone {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mail {
+    margin-left: 20px;
+    margin-right: 10%;
+}
+
+.icons {
+    align-content: center;
+    display: flex;
+    font-size: large;
+    gap: 20px;
+}
+
+.row2 {
+    display: flex;
+    gap: 80px;
+    height: 90px;
+    font-family: sans-serif;
+}
+
+.img1 {
+    height: 80px;
+    width: 380px;
+}
+
+.logo {
+    margin-top: 5px;
+    margin-left: 67px;
+}
+
+.mainbar {
+    display: flex;
+    gap: 50px;
+    font-size: 14px;
+    margin-top: 35px;
+}
+
+.addmi {
+    color: white;
+    background-color: rgb(150, 22, 47);
+    border-radius: 20px;
+    height: 45px;
+    width: 170px;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.admi {
+    margin-left: 30px;
+}
+
+.hr1 {
+    border: 0.5px solid rgb(102, 211, 225);
+}
+
+.intro {
+    height: 600px;
+    background-color: rgb(215, 236, 244);
+}
+
+.body1 {
+    display: flex;
+    height: 500px;
+    gap: 300px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+
+.descri {
+    margin-top: 6%;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.animation {
+    font-size: 70px;
+    font-weight: bold;
+    display: flex;
+}
+
+pre {
+
+    font-family: "DM Serif Display", serif;
+}
+
+.tauko {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.description1a {
+    color: rgb(26, 28, 137);
+}
+
+.a1 {
+    color: rgb(26, 28, 137);
+}
+
+.img2 {
+    height: 520px;
+    width: 460px;
+}
+
+.contact {
+    background-color: darkred;
+    width: 110px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.con {
+    margin-left: 15px;
+}
+
+.body2 {
+    height: 600px;
+    display: flex;
+    margin-left: 2%;
+    gap: 200px;
+}
+
+.message {
+    align-content: center;
+}
+
+.welcome {
+    color: blueviolet;
+    margin-left: 40%;
+}
+
+.from {
+    color: rgb(26, 28, 137);
+    font-family: "DM Serif Display", serif;
+    font-size: 30px;
+    margin-left: 32%;
+}
+
+.para {
+    font-family: sans-serif;
+    color: rgb(26, 28, 137);
+    font-size: 15px;
+}
+
+.princi {
+    height: 500px;
+    width: 425px;
+    margin-top: 8%;
+}
+
+#para {
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+}
+
+.sign {
+    margin-left: 48%;
+}
+
+.body3 {
+    height: 500px;
+    display: flex;
+    margin-top: 6%;
+}
+
+#image31 {
+    height: 320px;
+    width: 270px;
+    margin-top: 30px;
+}
+
+.image31 {
+    margin-left: 8%;
+}
+
+.image32 {
+    margin-left: 5%;
+}
+
+#image321 {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#image322 {
+    height: 175px;
+    width: 230px;
+}
+
+.image322 {
+    display: flex;
+    flex-direction: column;
+}
+
+.row31 {
+    display: flex;
+    gap: 2px;
+}
+
+.row311 {
+    font-family: sans-serif;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.text {
+    margin-left: 80px;
+}
+
+.row312 {
+    align-content: center;
+}
+
+#hr2 {
+    width: 60px;
+    border: 2px solid crimson;
+}
+
+.row32 {
+    font-family: "DM Serif Display", serif;
+    font-size: 35px;
+    line-height: 1;
+}
+
+.row33 {
+    line-height: 2;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 50px;
+}
+
+.row34 {
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+.icona {
+    justify-items: center;
+}
+
+.iconb {
+    justify-items: center;
+}
+
+.iconc {
+    justify-items: center;
+}
+.body4{
+    height: 600px;
+  
+    justify-items: center;
+}
+.row41{
+    font-family: sans-serif;
+    color: blueviolet;
+    font-weight: bold;
+}
+.row42{
+    font-family: "DM Serif Display", serif;
+    font-size: xx-large;
+    color: rgb(26, 28, 137);
+}
+.row43{
+    color: rgb(26, 28, 137);
+    font-size: medium;
+    font-family: sans-serif;
+}
+.row431{
+    color: rgb(26, 28, 137);
+    font-size: large;
+}
+.row44{
+    display: flex;
+    height: 350px;
+    margin-top: 40px;
+    gap: 70px;
+}
+.box1{
+    border: 1px solid rgb(216, 212, 212);
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px 0px lightgrey;
+}
+.num{
+    font-size: 75px;
+    font-family: "Poppins", serif;
+    font-weight: bolder;
+    -webkit-text-stroke: 3px black;
+    color: transparent;
+    text-shadow: 0px 10px rgb(180, 201, 208);
+}
+.corss{
+    font-family: "DM Serif Display", serif;
+    font-size: 20px; 
+}
+.one4{
+    margin-left: 20px;
+}
+.box2{
+    border: 2px solid black;
+    width: 400px;
+    background-color:rgb(4, 4, 106);
+    color: white;
+    border-radius: 10px;
+}
+.two4{
+    margin-left: 20px;
+}
+.num2{
+    font-size: 75px;
+    font-family: "Poppins", serif;
+    font-weight: bolder;
+    -webkit-text-stroke: 3px white;
+    color: transparent;
+    text-shadow: 0px 10px rgb(190, 198, 201);
+}
+.box3{
+    border: 1px solid rgb(216, 212, 212);
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: -10px 10px 15px 0px lightgrey;
+}
+.body5{
+    height: 400px;
+    border: 2px solid black;
+    background-image: url(../../../../../../../Downloads/bgko.jpg);
+    background-attachment: fixed;
+   
+}
+.unlock{
+    height: 100%;
+
+}
+.row51{
+    opacity: 1;
+    color: white;
+    font-size: 35px;
+    font-family: "DM Serif Display", serif;
+}
+.row52{
+    font-family: sans-serif;
+}
+.row53{
+    font-family: sans-serif;
+}
+.row54{
+    height: 50px;
+    width: 160px;
+    background-color: rgb(174, 2, 2);
+    font-size: medium;
+    font-family: sans-serif;
+    justify-items: center;
+    align-content: center;
+    border-radius: 25px;
+}
+.body6{
+    height: 500px;
+}
+.rows{
+    color: white;
+   justify-items: center;
+   
+}
+.body6{
+    justify-items: center;
+}
+.row61{
+    margin-top: 5%;
+    color: blueviolet;
+    font-family: sans-serif;
+}
+.row62{
+    font-size: 40px;
+    color: rgb(0, 0, 95);
+}
+.row63{
+    font-family: sans-serif;
+    margin-top: 35px;
+    color: navy;
+}
+.row64{
+    font-family: sans-serif;
+    margin-top: 15px;
+    color: navy;
+}
+.row65{
+    display: flex;
+    gap: 80px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.profile{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.one6{
+    border: 2px solid lightgray;
+    height: 270px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(195, 195, 195);
+    width: 400px;
+    font-family: sans-serif;
+}
+.pho{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.bout{
+    line-height: 20px;
+}
+.star{
+    color: gold;
+}
+.komma{
+    font-size: 100px;
+    color: rgb(13, 13, 100);
+}
+.komma1{
+    font-size: 100px;
+    color: rgb(109, 6, 6);
+}
+.di{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.read{
+    margin-left: 42%;
+    margin-top: 30px;
+}
+.par{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    gap: 120px;
+}
+.body7{
+height: 200px;
+
+}
+marquee{
+    width: 100%;
+}
+#par2{
+    height: 100px;
+}
+#par3{
+    height: 100px;
+}
+#par4{
+    height: 100px;
+}
+.row71{
+    margin-left: 44%;
+    color: blueviolet;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 6%;
+    margin-bottom: 15px;
+}
+.row72{
+    font-size: 38px;
+    margin-left: 35%;
+}
+.row73{
+    margin-top: 30px;
+
+}
+.body8{
+    background-color: rgb(27, 54, 118);
+    height: 400px;
+
+}
+.footer{
+    margin-top: 50px;
+    color: white;
+    gap: 70px;
+    display: flex;
+    margin-top: -0.3px;
+}
+.ek{
+    margin-left: -80px;
+}
+.rowa{
+    display: flex;
+    margin-left: 47px;
+    margin-bottom: 15px;
+}
+.college{
+    margin-top: 20px;
+}
+#pre{
+    margin-left: -60px;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+.iconsa{
+    margin-left: 55px;
+    display: flex;
+    font-size: large;
+    gap: 10px;
+}
+.dui{
+    font-family: sans-serif;
+}
+.tin{
+    font-family: sans-serif;
+}
+.char{
+    font-family: sans-serif;
+}
+.pach{
+    font-family: sans-serif;
+}
+.body9{
+    height: 40px;
+    background-color: rgb(4, 4, 90);
+    color: white;
+    justify-items: center;
+    align-content: center;
+}
+.row91{
+font-family: sans-serif;
+}
+html{
+   scroll-behavior: smooth;
+}
+#tala{
+    margin-left: 49%;
+}
+#mathi{
+    color: white;
+}
